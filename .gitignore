@@ -1,0 +1,10 @@
+# For IDEs
+
+.vscode/
+
+# For Node Dependencies 
+
+node_modules
+
+# For Env File
+.env
